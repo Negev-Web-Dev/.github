@@ -14,7 +14,9 @@ Network with other web developers in the region
 Get involved in projects with other developers
 Stay up-to-date on the latest trends in web development
 Have fun and meet new people
-If you want to join the Negev Web Developers community, you can find more information on Facebook , Meetup.com  and Yoube.
+If you want to join the Negev Web Developers community, you can find more information on Facebook , Meetup.com  and YouTube.
+
+[Meetup](https://www.meetup.com/negevdev/)
 
 [Facebook](https://www.facebook.com/groups/145321082797079)
 
