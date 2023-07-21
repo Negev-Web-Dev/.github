@@ -16,9 +16,9 @@ Stay up-to-date on the latest trends in web development
 Have fun and meet new people
 If you want to join the Negev Web Developers community, you can find more information on Facebook , Meetup.com  and Yoube.
 
-https://www.facebook.com/groups/145321082797079
+[Facebook](https://www.facebook.com/groups/145321082797079)
 
-https://www.youtube.com/@negevDev
+[YouTube](https://www.youtube.com/@negevDev)
 
 
 
