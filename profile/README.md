@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hi To Negev Web Developers community  👋
+
+The Negev Web Developers community is a group of web developers and enthusiasts in the Negev region of Israel. 
+The community was founded around 2014 with the goal of bringing together web developers from the region to share knowledge, learn from each other, and collaborate on projects.
+
+The community has grown steadily over the years and now has over 2,000 members. The community organizes meetups, workshops, and hackathons on a regular basis. The community also has a website and a Facebook group where members can connect with each other and stay up-to-date on the latest news and events.
+
+The Negev Web Developers community is a valuable resource for web developers in the Negev region. The community provides a forum for networking, learning, and collaboration. If you are a web developer in the Negev, I encourage you to join the community and get involved.
+
+Here are some of the benefits of joining the Negev Web Developers community:
+
+Learn from experienced web developers
+Network with other web developers in the region
+Get involved in projects with other developers
+Stay up-to-date on the latest trends in web development
+Have fun and meet new people
+If you want to join the Negev Web Developers community, you can find more information on Facebook , Meetup.com  and Yoube.
+
+https://www.facebook.com/groups/145321082797079
+
+https://www.youtube.com/@negevDev
+
+
 
 <!--
 
